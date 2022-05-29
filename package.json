@@ -1,0 +1,23 @@
+{
+  "name": "testing-tax",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kothadiyasagar/TESTING-TAX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kothadiyasagar/TESTING-TAX/issues"
+  },
+  "homepage": "https://github.com/kothadiyasagar/TESTING-TAX#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "description": ""
+}
